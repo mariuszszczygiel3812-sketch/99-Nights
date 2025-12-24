@@ -1,8 +1,8 @@
 {
-    "Voidware": "Voidware",
+    "LegendWare": "LegendWare",
     "Information": "Informasjon",
     "Join Discord Server": "Bli med i Discord-server",
-    "Welcome to Voidware!": "Velkommen til Voidware!",
+    "Welcome to LegendWare!": "Velkommen til LegendWare!",
     "Make sure to join our discord \n server for updates!": "Husk å bli med i vår Discord-server \n for oppdateringer!",
     "Unload": "Last ut",
     "Library Choice": "Bibliotekvalg",
@@ -188,4 +188,5 @@
     "[Save Settings]: Press the button again to reset your settings. This cannot be undone!": "[Lagre innstillinger]: Trykk på knappen igjen for å nullstille innstillingene. Dette kan ikke angres!",
     "Bring Food To Cook Pot": "Hent mat til kokekjele",
     "Crock Pot not found": "Kokekjele ikke funnet"
+
 }
